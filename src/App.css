@@ -1,3 +1,32 @@
+.ap{
+  display: grid;
+  grid-template-columns: 4fr 2fr;
+  gap: 15px;
+  padding: 25px;
+}
+.items{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 40px;
+}
+.ctd{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.hl{
+  text-align: center;
+}
+.cad{
+  background-color: #ff63474f;
+  position: sticky;
+  top: 0;
+  padding: 15px;
+}
+
+
+
+
 .App {
   text-align: center;
 }

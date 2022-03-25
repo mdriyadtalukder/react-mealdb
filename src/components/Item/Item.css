@@ -1,0 +1,26 @@
+.dvi img{
+    /* width: 332px;
+    height: 332px; */
+    width: 100%;
+}
+.dv{
+    padding: 10px;
+}
+.dvi{
+    border: 1px solid gray;
+}
+.inf h2,p{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+button{
+    margin-top: 10px;
+    background-color: #ff634770;
+    border: 1px solid #ff634723;
+}
+button:hover{
+    background-color: tomato;
+}
+button p{
+    padding: 5px;
+}
